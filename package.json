@@ -1,0 +1,31 @@
+{
+  "name": "Booky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@zxing/library": "^0.8.3",
+    "eslint": "^5.6.0",
+    "expect.js": "^0.3.1",
+    "fullpage.js": "^3.0.3"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiahongweng/Booky.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiahongweng/Booky/issues"
+  },
+  "homepage": "https://github.com/jiahongweng/Booky#readme"
+}
